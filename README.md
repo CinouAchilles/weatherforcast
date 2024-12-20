@@ -1,37 +1,29 @@
-#Weather Forecast App (Markdown Format)
-This document outlines the steps to set up a weather forecast app that allows you to choose your location.
+# Weather Forecast App
 
-Live Demo:
+This project is a weather forecast app that allows users to choose their location and get real-time weather information. You can check out a live version of the app below:
 
-You can check out a live version of the app here: https://weatherforcastme.netlify.app/
-Getting Started:
+## Live Demo:
+You can check out a live version of the app here: [Weather Forecast App Live Demo](https://weatherforcastme.netlify.app/)
 
-This section details how to set up the project on your local machine.
+## Getting Started:
 
-Prerequisites:
+Follow the instructions below to set up the project on your local machine.
 
-Node.js (version 14 or higher): https://nodejs.org/en
-npm (comes bundled with Node.js) or yarn (optional): https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager   
-Installation:
+### Prerequisites:
 
-Clone the Repository:
-git clone https://github.com/CinouAchilles/weatherforcast.git
-Change Directory:
-Navigate to the project directory:
+Before you begin, ensure that you have the following installed:
 
-cd weatherforcast
-Install Dependencies:
-Use either npm or yarn to install the project's dependencies:
+- **Node.js** (version 14 or higher): [Download Node.js](https://nodejs.org/en)
+- **npm** (Node Package Manager) or **yarn** (optional):
 
-Using npm:
-npm install
-Using yarn (optional):
-yarn
-Start Development Server:
-Run the following command to start the development server:
 
-npm run dev
-Access the App:
+### Installation:
 
-Open your web browser and navigate to http://localhost:3000 to access the weather forecast app.   
+Follow these steps to get the app up and running locally.
 
+1. **Clone the Repository:**
+
+   First, clone the project repository to your local machine by running the following command:
+
+   ```bash
+   git clone https://github.com/CinouAchilles/weatherforcast.git
