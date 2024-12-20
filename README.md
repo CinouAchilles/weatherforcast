@@ -1,31 +1,37 @@
-# React + Vite
-# weather forecast app 
+#Weather Forecast App (Markdown Format)
+This document outlines the steps to set up a weather forecast app that allows you to choose your location.
 
-u can chose your location <br>
-link : https://weatherforcastme.netlify.app/
-<br>
-**Getting Started**<br>
-Follow these steps to set up the project on your local machine:<br>
+Live Demo:
 
-**Prerequisites**<br>
-Make sure you have the following installed:<br>
+You can check out a live version of the app here: https://weatherforcastme.netlify.app/
+Getting Started:
 
-Node.js (version 14 or higher)<br>
-npm (comes with Node.js) or yarn (optional)<br>
-**Installation**<br>
-Clone the repository:<br>
+This section details how to set up the project on your local machine.
+
+Prerequisites:
+
+Node.js (version 14 or higher): https://nodejs.org/en
+npm (comes bundled with Node.js) or yarn (optional): https://nodejs.org/en/learn/getting-started/an-introduction-to-the-npm-package-manager   
+Installation:
+
+Clone the Repository:
 git clone https://github.com/CinouAchilles/weatherforcast.git
-<br>
-cd your-repository-name
-<br>
-Install dependencies:<br>
-<br>
+Change Directory:
+Navigate to the project directory:
+
+cd weatherforcast
+Install Dependencies:
+Use either npm or yarn to install the project's dependencies:
+
+Using npm:
 npm install
-<br>
-Or, if using Yarn:<br>
+Using yarn (optional):
 yarn
-<br>
-Start the development server:<br>
+Start Development Server:
+Run the following command to start the development server:
+
 npm run dev
-<br>
-The app will run on http://localhost:3000.<br>
+Access the App:
+
+Open your web browser and navigate to http://localhost:3000 to access the weather forecast app.   
+
