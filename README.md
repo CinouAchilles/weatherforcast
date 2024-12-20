@@ -27,3 +27,20 @@ Follow these steps to get the app up and running locally.
 
    ```bash
    git clone https://github.com/CinouAchilles/weatherforcast.git
+2. **Change Directory:**
+
+   Navigate to the project directory:
+   ```bash
+   cd weatherforcast
+3.**Install Dependencies:**
+
+   Install the necessary packages and dependencies to run the app:
+   ```bash
+   npm install
+   ```
+4.**Start Development Server:**
+
+   To start the development server, run the following command:
+   ```bash
+   npm run dev
+   ```
